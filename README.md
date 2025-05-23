@@ -13,25 +13,25 @@ A Bond Investment Calculator developed using Classic ASP (VBScript), HTML, and C
   - Fees
   - Estimated returns
 - Market Information panel (Last price, % change, Yield, etc.)
-- Investment growth visualized via interactive line chart (Chart.js)
+- Investment growth visualizer
 
 ## 💻 Technologies Used
 
 - HTML
 - CSS
 - VBScript (Classic ASP)
-- Chart.js (for front-end chart rendering)
 - IIS for local hosting
 
 ## 📁 Getting Started
 
 1. Clone the repository.
 2. Place files inside the `wwwroot` directory of your IIS server.
-3. Access via `http://localhost/YourFolderName/filename.asp`.
+3. Access via `http://localhost/wwwroot/index.asp`.
 
 ## 📸 Screenshots
 
-_Add screenshots of the UI here._
+![image](https://github.com/user-attachments/assets/8b43fbbe-4fde-4182-bf59-8e9fe0027c78)
+
 
 ## 📜 License
 
