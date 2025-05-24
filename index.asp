@@ -273,7 +273,7 @@ End Function
                 <label for="quantity">Quantity</label>
                 <input type="number" name="quantity" id="quantity" min="1" value="<%=quantity%>" required />
 
-                <label for="monthlyContribution">Monthly Additional Investment (Optional)</label>
+                <label for="monthlyContribution">₦ Monthly Additional Investment (Optional)</label>
                 <input type="number" name="monthlyContribution" id="monthlyContribution" min="0" value="<%=monthlyContribution%>" />
 
                 <label>
